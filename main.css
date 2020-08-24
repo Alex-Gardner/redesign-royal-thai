@@ -213,7 +213,7 @@ p {
 .theme-img-holder {
   height: 100%;
   width: 100%;
-  background-color: plum;
+  background-color: #fff;
 }
 .themes img {
   object-fit: cover;
