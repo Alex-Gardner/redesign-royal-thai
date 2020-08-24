@@ -51,15 +51,6 @@ main {
   font-family: "Dancing Script", cursive;
 }
 
-/* not currently doing anything */
-.lotus-svg {
-  fill: red;
-}
-.lotus-icon {
-  fill: red;
-}
-/* ^^not doing anything  */
-
 .sub-header {
   margin: 2%;
   font-size: 3em;
