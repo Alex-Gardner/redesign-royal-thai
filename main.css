@@ -36,7 +36,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: center / contain no-repeat url("./assets/images/lotus-bloom.svg"),
+  background: center / contain no-repeat url("./assets/images/lotus-bloom-gradient.svg"),
     linear-gradient(#555555, #000);
 }
 .constant-header h1 {
